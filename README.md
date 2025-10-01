@@ -2,9 +2,8 @@
 
 Deployed at: https://jpa01-yuliny.dokku-13.cs.ucsb.edu
 
-
 # About this repo
-
+git 
 This is a minimal "Hello World" type webapp built with Spring Boot.
 
 # What can you do with this code?
